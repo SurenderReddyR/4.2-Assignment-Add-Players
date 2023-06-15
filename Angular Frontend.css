@@ -1,0 +1,4 @@
+ng generate component player-list
+ng generate component player-details
+ng generate component player-form
+ng generate component query-results
